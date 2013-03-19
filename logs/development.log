@@ -1,0 +1,715 @@
+
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :users_controller.js: GET all users
+-----
+INFO :errors_controller.js: received an unknown request: {"context":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:19.0) Gecko/20100101 Firefox/19.0","details":"api/v1/users:0 #error #ajax_error "}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+DEBUG: users_controller.js: POST to authenticate a user
+-----
+DEBUG: users_controller.js: searching for user, using req.body.userName= bob
+-----
+DEBUG: users_controller.js: POST to authenticate a user
+-----
+DEBUG: users_controller.js: searching for user, using req.body.userName= bob
+-----
+INFO :errors_controller.js: received an unknown request: {"context":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:19.0) Gecko/20100101 Firefox/19.0","details":"http://localhost:8080/api/v1/user/signin:0 #error #ajax_error "}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :errors_controller.js: received an unknown request: {"context":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:19.0) Gecko/20100101 Firefox/19.0","details":"http://localhost:8080/api/v1/user/signin:0 #error #ajax_error "}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: app.js: registered controller logs
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+DEBUG: users_controller.js: POST to authenticate a user
+-----
+DEBUG: users_controller.js: searching for user, using req.body.userName= nigel
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: app.js: registered controller logs
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+DEBUG: users_controller.js: POST to authenticate a user
+-----
+DEBUG: users_controller.js: searching for user, using req.body.userName= bob
+-----
+DEBUG: users_controller.js: loaded 0 users who match username bob
+-----
+DEBUG: users_controller.js: user not found
+-----
+DEBUG: logs_controller.js: received a POST to create a new server-side log entry
+-----
+INFO :logs_controller.js: details=http://localhost:8080/api/v1/user/signin:401 #error #ajax_error Unauthorized
+-----
+INFO :users_controller.js: POST to create a user
+-----
+DEBUG: users_controller.js: saving new user
+-----
+DEBUG: users_controller.js: saved new user OK, sending response: http://127.0.0.1:8080/api/v1/users/51418f5d8b527e0b82000001
+-----
+INFO :users_controller.js: GET a user: 51418f5d8b527e0b82000001
+-----
+DEBUG: lib.utils.checkErr: entry
+-----
+DEBUG: lib.utils.eTag: data is an object. stringified to {"userName":"bob","email":"bob@pp.com","_id":"51418f5d8b527e0b82000001","timezone":"undefined","city":"","country":"","born":"2013-03-13T11:00:00.000Z","dateRegistered":"2013-03-13T11:00:00.000Z","fullName":"","isAdmin":false,"password":"password"}
+-----
+DEBUG: users_controller.js: POST to authenticate a user
+-----
+DEBUG: users_controller.js: searching for user, using req.body.userName= bob
+-----
+DEBUG: users_controller.js: loaded 1 users who match username bob
+-----
+INFO :errors_controller.js: received an unknown request: {"userName":"bob","password":"password","startDate":"","isAdmin":false,"isRecorder":false,"_id":null}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+DEBUG: logs_controller.js: received a POST to create a new server-side log entry
+-----
+INFO :logs_controller.js: details=/api/v1/sessions:404 #error #ajax_error 404 - Page Not Found
+-----
+INFO :errors_controller.js: received an unknown request: {"userName":"","password":"","startDate":null,"isAdmin":false,"isRecorder":false,"_id":null}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+DEBUG: logs_controller.js: received a POST to create a new server-side log entry
+-----
+INFO :logs_controller.js: details=/api/v1/sessions:404 #error #ajax_error 404 - Page Not Found
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: app.js: registered controller logs
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :errors_controller.js: received an unknown request: {"userName":"","password":"","startDate":null,"isAdmin":false}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+DEBUG: logs_controller.js: received a POST to create a new server-side log entry
+-----
+INFO :logs_controller.js: details=/api/v1/sessions:404 #error #ajax_error 404 - Page Not Found
+-----
+DEBUG: users_controller.js: POST to authenticate a user
+-----
+DEBUG: users_controller.js: searching for user, using req.body.userName= bob
+-----
+DEBUG: users_controller.js: loaded 1 users who match username bob
+-----
+INFO :errors_controller.js: received an unknown request: {"userName":"bob","password":"password","startDate":null,"isAdmin":false,"_id":null}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+DEBUG: logs_controller.js: received a POST to create a new server-side log entry
+-----
+INFO :logs_controller.js: details=/api/v1/sessions:404 #error #ajax_error 404 - Page Not Found
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: app.js: registered controller logs
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+DEBUG: users_controller.js: POST to authenticate a user
+-----
+DEBUG: users_controller.js: searching for user, using req.body.userName= bob
+-----
+DEBUG: users_controller.js: loaded 1 users who match username bob
+-----
+INFO :errors_controller.js: received an unknown request: {"userName":"bob","password":"password","startDate":"","isAdmin":false,"_id":null}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+DEBUG: logs_controller.js: received a POST to create a new server-side log entry
+-----
+INFO :logs_controller.js: details=/api/v1/sessions:404 #error #ajax_error 404 - Page Not Found
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: app.js: registered controller logs
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: app.js: registered controller logs
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: app.js: registered controller logs
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :errors_controller.js: received an unknown request: {}
+-----
+INFO :errors_controller.js: error route activated: undefined
+-----
+INFO :errors_controller.js: 404 error NotFound
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: app.js: registered controller logs
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running
+-----
+INFO :nodejs application started. NODE_ENV= undefined
+-----
+DEBUG: Debug ON
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: lib.utils.connectToDatabase: entry
+-----
+DEBUG: lib.utils.connectToDatabase: connecting to Db mongodb://:@localhost:27017/helloworld-dev
+-----
+INFO :app.js: connected to MongoDB development environment
+-----
+DEBUG: app.js: registered all models
+-----
+DEBUG: app.js: registered controller users
+-----
+DEBUG: app.js: registered controller logs
+-----
+DEBUG: lib.utils.ifEnv: entry
+-----
+DEBUG: app.js: registered controller errors
+-----
+INFO :app.js: registered all controllers
+-----
+INFO :
+-------
+Express server listening on port 8080, environment: development
+-------
+-----
+DEBUG: app.js: utils.loadConfig returning
+-----
+INFO :app.js: server is running

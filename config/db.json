@@ -1,0 +1,29 @@
+{
+  "test": {
+    "main"    : {
+      "USER"     : "",
+      "PASS"     : "",
+      "HOST"     : "localhost",
+      "PORT"     : "27017",
+      "DATABASE" : "helloworld-test"
+    }
+  },
+  "development": {
+    "main"    : {
+      "USER"     : "",
+      "PASS"     : "",
+      "HOST"     : "localhost",
+      "PORT"     : "27017",
+      "DATABASE" : "helloworld-dev"
+    }
+  },
+  "production": {
+    "main"    : {
+      "USER"     : "",
+      "PASS"     : "",
+      "HOST"     : "localhost",
+      "PORT"     : "27017",
+      "DATABASE" : "helloworld-main"
+    }
+  }
+}

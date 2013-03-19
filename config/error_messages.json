@@ -1,0 +1,11 @@
+{
+  "USERNAME"      : "Mandatory Username field is invalid, please enter a name with a length of 2-100 chars.",
+  "PASSWORD"      : "Password field is invalid, please enter a name with a length of up to 100 chars.",
+  "FULLNAME"      : "Full name field is invalid, please enter a name with a length of up to 100 chars.",
+  "EMAIL"         : "Mandatory Email address is invalid. Must be in format xxx@yyy.zzz ",
+  "DATEREGISTERED": "Registration date is invalid, please check the date format, and that its today or earlier",
+  "BORN"          : "Birth date is invalid, please check the date format",
+  "COUNTRY"       : "Country name is invalid.",
+  "CITY"          : "Country name is invalid.",
+  "DUPLICATE"     : "Email address already exists, please choose a different one."
+}
